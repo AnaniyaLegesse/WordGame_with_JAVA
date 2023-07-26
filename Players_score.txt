@@ -1,0 +1,13 @@
+---------------------------------------------------------
+NAME        POINTS              DATE
+---------------------------------------------------------
+ABDU		SCORE=50%		 Thu Feb 17 10:29:13 EAT 2022
+BAMLAK		SCORE=40%		 Fri Feb 18 10:28:39 EAT 2022
+ANANIYA		SCORE=50%		 Fri Feb 18 10:41:26 EAT 2022
+EYOB		SCORE=40%		 Fri Feb 18 10:45:21 EAT 2022
+DANAIL		SCORE=80%		 Fri Feb 18 10:48:43 EAT 2022
+BINYAM		SCORE=80%		 Fri Feb 18 12:59:39 EAT 2022
+ANDUALEM	SCORE=100%	      Fri Feb 18 13:05:38 EAT 2022
+NATNEAL		SCORE=60%		Fri Feb 18 14:13:33 EAT 2022
+LEUL		SCORE=100%		Fri Feb 18 14:18:20 EAT 2022
+BARNABAS		SCORE=80%		Fri Feb 18 14:24:52 EAT 2022
